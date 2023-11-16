@@ -1,8 +1,3 @@
-localhost
-root
-
-test
-
 # localhost
 # yourusername
 # yourpassword
