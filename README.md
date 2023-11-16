@@ -17,3 +17,9 @@ yourusername
 yourpassword
 
 something
+
+If it is a specific database, the database connection is given in the .env file, but here it is about own, variable connections.
+The order of the connection data is important, from the first line to the fourth line: WITHOUT SPACES AND QUOTATION MARKS!
+CVS files are written to the ROOT folder.
+
+Hello Tibor
