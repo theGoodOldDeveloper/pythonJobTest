@@ -5,4 +5,13 @@ Database connection data: database_connect.txt
 1. line: host                         
 2. line: user                         
 3. line: password                     
-4. line: database name                
+4. line: database name
+            
+# examle:
+localhost
+
+yourusername 
+
+yourpassword
+
+something
