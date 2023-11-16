@@ -36,7 +36,7 @@ class DataBaseExport(wx.Frame):
         # create checkboxes
         vbox = wx.BoxSizer(wx.VERTICAL)
         self.SetSizer(vbox)
-        self.SetBackgroundColour(wx.Colour(0,230,255))  # RGB values for a light gray color
+        self.SetBackgroundColour(wx.Colour(0,230,255))  # RGB values for a CYAN color
         for i in range(len(tableNames)):
             cbox[i] = wx.CheckBox(self,id = i , label = pause + tableNames[i])
             font = wx.Font(14, wx.DEFAULT, wx.NORMAL, wx.NORMAL)
